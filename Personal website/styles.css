@@ -1,0 +1,78 @@
+body{
+  background-color: #FDEFEF;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #E8D0B3;
+  font-size: 5.625em;
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #FFB740;
+  font-size: 2.5rem ;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #DF711B;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-cloud{
+  position: relative;
+  left:200px;
+}
+.mountain{
+  position:relative;
+  bottom:50px;
+  right: 50px;
+}
+.bottom-cloud{
+  position:relative;
+  bottom:340px;
+  left: 100px;
+
+}
+.skill-row{
+  font-weight: bold;
+  width: 50%;
+  margin:auto;
+  text-align: left;
+  line-height: 2;
+}
+.Reading{
+  width:25%;
+  float:right;
+  margin:30px;
+  position:relative;
+  top: 20px;
+}
+.sports{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}
+.btn{
+  background: #11cdd4;
+      background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+      border-radius: 8px;
+      font-family: 'Montserrat', sans-serif;
+      color: #ffffff;
+      font-size: 20px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+      margin: 10px 20px;
+      cursor: pointer;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+}
